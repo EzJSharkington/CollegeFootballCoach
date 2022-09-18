@@ -455,6 +455,107 @@
 			}
         ]
     },
+	{
+        "confFullName": "American Athletic",
+        "confPrestige": "75",
+        "confName": "AAC",
+        "confTeams": [
+			{
+				"name": "East Carolina",
+				"state": "North Carolina",
+				"abbreviation": "ECU",
+				"rival": ["NAVY"],
+				"rivalryNames": {},
+				"prestige": "65",
+				"hexColor": "#592A8A"
+			},
+			{
+				"name": "Louisville",
+				"state": "Kentucky",
+				"abbreviation": "LOU",
+				"rival": ["CIN"],
+				"rivalryNames": {},
+				"prestige": "80",
+				"hexColor": "#AD0000"
+			},
+			{
+				"name": "Pittsburgh",
+				"state": "Pennsylvania",
+				"abbreviation": "PITT",
+				"rival": ["WVU"],
+				"rivalryNames": {
+					"WVU": "The Backyard Brawl"
+				},
+				"prestige": "80",
+				"hexColor": "#003594"
+			},
+			{
+				"name": "Cincinnati",
+				"state": "Ohio",
+				"abbreviation": "CIN",
+				"rival": ["LOU"],
+				"rivalryNames": {},
+				"prestige": "85",
+				"hexColor": "#E00122"
+			},
+			{
+				"name": "West Virginia",
+				"state": "West Virginia",
+				"abbreviation": "WVU",
+				"rival": ["PITT"],
+				"rivalryNames": {
+					"PITT": "The Backyard Brawl"
+				},
+				"prestige": "85",
+				"hexColor": "#002855"
+			},
+			{
+				"name": "South Florida",
+				"state": "Florida",
+				"abbreviation": "USF",
+				"rival": ["UCF"],
+				"rivalryNames": {},
+				"prestige": "70",
+				"hexColor": "#006747"
+			},
+			{
+				"name": "Connecticut",
+				"state": "Connecticut",
+				"abbreviation": "CONN",
+				"rival": ["CUSE"],
+				"rivalryNames": {},
+				"prestige": "55",
+				"hexColor": "#000E2F"
+			},
+			{
+				"name": "Rutgers",
+				"state": "New Jersey",
+				"abbreviation": "RUT",
+				"rival": ["TEMP"],
+				"rivalryNames": {},
+				"prestige": "60",
+				"hexColor": "#CC0033"
+			},
+			{
+				"name": "Temple",
+				"state": "Pennsylvania",
+				"abbreviation": "TEMP",
+				"rival": ["RUT"],
+				"rivalryNames": {},
+				"prestige": "70",
+				"hexColor": "#9D2235"
+			},
+			{
+				"name": "Syracuse",
+				"state": "New York",
+				"abbreviation": "CUSE",
+				"rival": ["CONN"],
+				"rivalryNames": {},
+				"prestige": "70",
+				"hexColor": "#F76900"
+			}
+        ]
+    },
     {
         "confFullName": "Pac 10",
         "confPrestige": "85",
@@ -1136,107 +1237,7 @@
 			}
         ]
     },
-    {
-        "confFullName": "American Athletic",
-        "confPrestige": "75",
-        "confName": "AAC",
-        "confTeams": [
-			{
-				"name": "East Carolina",
-				"state": "North Carolina",
-				"abbreviation": "ECU",
-				"rival": ["NAVY"],
-				"rivalryNames": {},
-				"prestige": "65",
-				"hexColor": "#592A8A"
-			},
-			{
-				"name": "Louisville",
-				"state": "Kentucky",
-				"abbreviation": "LOU",
-				"rival": ["CIN"],
-				"rivalryNames": {},
-				"prestige": "80",
-				"hexColor": "#AD0000"
-			},
-			{
-				"name": "Pittsburgh",
-				"state": "Pennsylvania",
-				"abbreviation": "PITT",
-				"rival": ["WVU"],
-				"rivalryNames": {
-					"WVU": "The Backyard Brawl"
-				},
-				"prestige": "80",
-				"hexColor": "#003594"
-			},
-			{
-				"name": "Cincinnati",
-				"state": "Ohio",
-				"abbreviation": "CIN",
-				"rival": ["LOU"],
-				"rivalryNames": {},
-				"prestige": "85",
-				"hexColor": "#E00122"
-			},
-			{
-				"name": "West Virginia",
-				"state": "West Virginia",
-				"abbreviation": "WVU",
-				"rival": ["PITT"],
-				"rivalryNames": {
-					"PITT": "The Backyard Brawl"
-				},
-				"prestige": "85",
-				"hexColor": "#002855"
-			},
-			{
-				"name": "South Florida",
-				"state": "Florida",
-				"abbreviation": "USF",
-				"rival": ["UCF"],
-				"rivalryNames": {},
-				"prestige": "70",
-				"hexColor": "#006747"
-			},
-			{
-				"name": "Connecticut",
-				"state": "Connecticut",
-				"abbreviation": "CONN",
-				"rival": ["CUSE"],
-				"rivalryNames": {},
-				"prestige": "55",
-				"hexColor": "#000E2F"
-			},
-			{
-				"name": "Rutgers",
-				"state": "New Jersey",
-				"abbreviation": "RUT",
-				"rival": ["TEMP"],
-				"rivalryNames": {},
-				"prestige": "60",
-				"hexColor": "#CC0033"
-			},
-			{
-				"name": "Temple",
-				"state": "Pennsylvania",
-				"abbreviation": "TEMP",
-				"rival": ["RUT"],
-				"rivalryNames": {},
-				"prestige": "70",
-				"hexColor": "#9D2235"
-			},
-			{
-				"name": "Syracuse",
-				"state": "New York",
-				"abbreviation": "CUSE",
-				"rival": ["CONN"],
-				"rivalryNames": {},
-				"prestige": "70",
-				"hexColor": "#F76900"
-			}
-        ]
-    }
+
   ],
   "bowlGames": [
     "Rose Bowl",
