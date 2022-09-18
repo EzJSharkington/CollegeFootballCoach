@@ -1,20 +1,20 @@
 {
-  "promotionRoutes": {
-    "SUN": "SEC",
-    "MAC": "B10",
-    "COL": "ACC",
-    "MVC": "B12",
-    "MWC": "PAC",
-    "CUSA": "AAC"
-  },
-  "baseYear": 2014,
-  "relegationRoutes": {
-    "SEC": "SUN",
-    "B10": "MAC",
-    "ACC": "COL",
-    "B12": "MVC",
-    "PAC": "MWC",
-    "AAC": "CUSA"
+	"promotionRoutes": {
+		"SUN": "SEC",
+		"MAC": "B10",
+		"COL": "ACC",
+		"MVC": "B12",
+		"MWC": "PAC",
+		"USA": "AAC"
+	},
+	"baseYear": 2022,
+	"relegationRoutes": {
+		"SEC": "SUN",
+		"B10": "MAC",
+		"ACC": "COL",
+		"B12": "MVC",
+		"PAC": "MWC",
+		"AAC": "USA"
   },
   "conferences": [
     {
@@ -945,7 +945,7 @@
     {
         "confFullName": "Conference USA",
         "confPrestige": "65",
-        "confName": "CUSA",
+        "confName": "USA",
         "confTeams": [
 			{
 				"name": "Southern Methodist",
